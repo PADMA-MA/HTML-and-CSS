@@ -1,0 +1,14 @@
+
+ 
+<form>
+<label for="name">NAME</label>
+<input id="name" type="text">
+<input type="submit" value="save">
+</form>
+
+<form>
+<label for="message">YOUR MESSAGE</label>
+<textarea id="message" name="your msg"> </textarea>
+<input type="submit" value="save">
+</form>
+
