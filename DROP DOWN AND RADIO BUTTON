@@ -1,0 +1,16 @@
+<label for="favorite color">what is your favorite color?</label>
+<select id="favorite color">
+<option value="cgreen">green</option>
+<option value="cblue">blue</option>
+<option value="cyellow">yellow</option>
+</select>
+
+<feildset>
+<legend>what is your fav meal</legend>
+<input type="radio" id="breakfast" name="favorite meal" value="meal1">
+<label for="breakfast">breakfast</label>
+<input type="radio" id="lunch" name="favorite meal" value="meal2">
+<label for="lunch">lunch</label>
+<input type="radio" id="dinner" name="favorite meal" value="meal3">
+<label for="dinner">dinner</label>
+</feildset>
