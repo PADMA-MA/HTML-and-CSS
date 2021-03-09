@@ -1,5 +1,3 @@
-
- 
 <form>
 <label for="name">NAME</label>
 <input id="name" type="text">
